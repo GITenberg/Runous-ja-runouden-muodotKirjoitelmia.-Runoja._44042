@@ -1,0 +1,31 @@
+_repo: Runous-ja-runouden-muodotKirjoitelmia.-Runoja._44042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godenhjelm, B. F. (Bernhard Fredrik)
+    aliases:
+    - Godenhjelm, Bernard Fredrik
+    - Godenhjelm, Bernhard Fredrik
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '8058'
+    url: http://www.gutenberg.org/2009/agents/8058
+description: ''
+gutenberg_issued: '2013-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44042'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Poetry -- History and criticism'
+- !lcsh 'Essays'
+- !lcsh 'Poetry'
+title: 'Runous ja runouden muodot: Kirjoitelmia. Runoja.'
+url: http://www.gutenberg.org/ebooks/44042
